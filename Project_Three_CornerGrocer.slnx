@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Project_Three_CornerGrocer.vcxproj" Id="807b03ea-e95b-415a-bac2-2149b467f590" />
-</Solution>
